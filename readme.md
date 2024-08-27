@@ -22,7 +22,7 @@ To get started with this repository, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/transformers-from-scratch.git
+   git clone https://github.com/Mo-Ouail-Ocf/transformers-from-scratch.git
    cd transformers-from-scratch
    ```
 
