@@ -1,6 +1,6 @@
 # Transformers from Scratch for English-to-Arabic Translation
 
-This repository contains an implementation of a Transformer model built from scratch using PyTorch. The model is trained for English-to-Arabic translation using the [news_commentary dataset](https://www.openslr.org/12/).
+This repository contains an implementation of a Transformer model built from scratch using **PyTorch**. The model is trained for **English-to-Arabic translation** using the [news commentary dataset](https://huggingface.co/datasets/Helsinki-NLP/news_commentary).
 
 ## Key Features
 
